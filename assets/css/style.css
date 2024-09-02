@@ -1,0 +1,19 @@
+#text1 { 
+    cursor: pointer;
+}
+.caja1 #text2{
+    background-color:#ca31fb;
+    display: none;
+}
+.caja1.activo  #text2{
+    display: block;
+}
+#img { 
+    width: 200px; 
+}
+#img.big { 
+    width:100%; 
+}
+#caja3.big{
+    font-size: 50px;
+}
